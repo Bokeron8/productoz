@@ -1,0 +1,18 @@
+--Prototype requirements
+---- Header
+-------- Title
+-------- Search Bar// LATER
+-------- Cart Icon?
+
+---- Footer
+-------- Information about the company
+
+---- Product Section
+-------- Products
+------------ Price
+------------ Image
+------------ Name
+------------ Information
+
+---- Search Bar
+-------- later
